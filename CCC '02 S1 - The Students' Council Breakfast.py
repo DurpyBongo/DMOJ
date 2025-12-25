@@ -3,7 +3,7 @@ green = int(input())
 red = int(input())
 orange = int(input())
 
-total = int(input())
+total = int(input()) # test
 combo = 0
 smallest = []
 for p in range((total//pink)+1):
